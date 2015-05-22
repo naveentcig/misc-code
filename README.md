@@ -5,6 +5,6 @@
 
 /*
   This directory will serve as my local respository for all the 
-  code that write both for official as well as personal purposes.
+  code that i write both for official as well as personal purposes.
 */
 
